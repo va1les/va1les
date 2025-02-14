@@ -1,6 +1,17 @@
 ![](https://discord.c99.nl/widget/theme-2/550336142160035840.png)<br>
-***
-# Рускоговорящий сервер по программированию<br>
-<a href="https://discord.gg/P9C6EU9Ra2"><img src="https://discord.com/api/guilds/889017740185182248/widget.png?style=banner2"></a>
-***
 
+## 🚀 Мои проекты  
+🔹 [💻 DiscordBotTemplateV14.7.3](https://github.com/ТВОЙ-РЕПОЗИТОРИЙ) – шаблон для создания Discord-ботов на Discord.js v14.17.3 с поддержкой MongoDB
+
+✔ Разработка Discord-ботов (Discord.js)  
+✔ Работа с базами данных (MongoDB) 
+
+## 📚 Полезные ссылки  
+📑 [Документация Discord.js](https://discord.js.org/#/docs/main/stable/general/welcome)  
+📚 [Гайд по Discord.js](https://discordjs.guide/)  
+📥 [Discord Developer Portal](https://discord.com/developers/applications)  
+🗄 [MongoDB Atlas](https://www.mongodb.com/atlas)  
+
+## 👨‍💻 Контакты  
+📩 **Telegram:** [@s0bakennn](https://t.me/s0bakennn)<br>
+🌀 **Discord:** va1les
